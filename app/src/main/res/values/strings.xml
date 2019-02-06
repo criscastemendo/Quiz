@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="truebutton">True</string>
+    <string name="falsebutton">False</string>
+    <string name="nextbutton">Next</string>
+    <string name="cheatbutton">Cheat</string>
+
+</resources>
